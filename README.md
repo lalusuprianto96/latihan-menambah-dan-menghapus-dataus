@@ -1,2 +1,2 @@
-# latihan-menambah-dan-menghapus-dataus
+# latihan-menambah-dan-menghapus-data
 ini adalah tugas saya 
